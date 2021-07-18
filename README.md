@@ -1,2 +1,2 @@
-# study-cases
+# **Study Cases**
 Examples and Exercises
